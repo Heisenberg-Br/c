@@ -2,7 +2,7 @@
 *
 *   Copyright © 2019 HansoMWarE Corporation
 *
-*   Developer: Geison Rodrigo Oriani Junior, 201910467;
+*   Developer: Geison Rodrigo Oriani Junior;
 *
 *   This Project is Able to Include, Change, Delete, Search and List Registered User's in Local Files.
 *
